@@ -1,7 +1,7 @@
 # 2nd Year Information Technology – WordPress Website
 
 ![Banner](./preview.png)
-[![*Click to view full banner*](./preivew.png)](./Banner.png)  
+[![*Click to view full website display image*](./preivew.png)](./Banner.png)  
 
 ## Project
 This is a small website I made using **WordPress** for a university assignment.  
