@@ -1,5 +1,8 @@
 # 2nd Year Information Technology – WordPress Website
 
+[![Preview Thumbnail](./preivew.png)](./Banner.png)  
+*Click to view full banner*
+
 ## Project
 This is a small website I made using **WordPress** for a university assignment.  
 The idea of the website is to present some information about the **2nd Year Information Technology batch** and show things related to our studies and activities.
